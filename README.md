@@ -19,8 +19,7 @@ This project focuses on building an **interactive Tableau dashboard** to analyze
 
 * **Tableau** – Dashboard creation and data visualization
 * **Excel / CSV** – Dataset storage and initial exploration
-* *(Optional if you used it)* **Python / Pandas** – Data cleaning and preprocessing
-
+* 
 📂 Dataset
 
 * Source: Uploaded in this Repository
@@ -45,7 +44,7 @@ This project focuses on building an **interactive Tableau dashboard** to analyze
 
 📷 Dashboard Preview
 
-*(Insert screenshots of your Tableau dashboard here)*
+<img src="/Netflix_Dashboard.png" alt="Netflix_Dashboard"/>
 
 ## 📁 Project Structure
 
