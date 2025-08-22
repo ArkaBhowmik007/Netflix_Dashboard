@@ -3,6 +3,11 @@
 
 📺 Netflix Dashboard Project – Tableau
 
+├── Netflix_Dashboard.png
+├── Netflix_Dashboard.twbx
+├── README.md
+└── netflix_titles.csv
+
 📌 Project Overview
 
 This project focuses on building an **interactive Tableau dashboard** to analyze Netflix’s global content library. The goal is to uncover insights into content distribution, trends, ratings, and genres, helping to understand how Netflix has expanded its offerings over time.
